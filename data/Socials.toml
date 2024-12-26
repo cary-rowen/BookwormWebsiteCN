@@ -17,6 +17,6 @@
     id = "telegram"
     url = "https://t.me/bookworm_official"
     icon = "telegram"
-    title = "英文 Telegram 群组"
+    title = "Telegram 群组"
     weight = 3
 

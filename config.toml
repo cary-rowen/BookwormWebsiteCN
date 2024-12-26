@@ -226,7 +226,11 @@ uglyURLs = false
         name = "赞助"
         weight = 2
         pre = "internal"
-
+    [[menu.main]]
+        pageref = "/doc/"
+        name = "用户指南"
+        weight = 3
+        pre = "internal"
 
 
 ##########################################
@@ -237,7 +241,7 @@ uglyURLs = false
     # 顶栏
 
     # 是否开启
-    enableHeader = true
+    enableHeader = false
 
     # 是否自动隐藏
     enableHeaderAutoHide = false
@@ -256,7 +260,7 @@ uglyURLs = false
     # 说明：居中布局（center）或弹性布局（flex）
 
     # 在窄视图下隐藏菜单栏并显示一个按钮？
-    enableNavToggle = true
+    enableNavToggle = false
 
     navHeight = "10em"
     # 说明：菜单栏展开时的高度
@@ -306,7 +310,7 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通页面
 
-    homeLayout = "posts"
+    homeLayout = "page"
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
@@ -336,7 +340,7 @@ uglyURLs = false
     # 站点信息
 
     # 站点的 LOGO
-    siteLogo = "/icons/apple-touch-icon.png"
+#    siteLogo = "/icons/apple-touch-icon.png"
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述

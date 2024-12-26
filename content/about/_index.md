@@ -8,5 +8,4 @@ title = '关于 Bookworm'
 
 这里是 Bookworm 的中文站点，提供有关于 Bookworm 的下载渠道、中文资讯和使用教程。
 
-
 [Bookworm]: https://github.com/blindpandas/bookworm/

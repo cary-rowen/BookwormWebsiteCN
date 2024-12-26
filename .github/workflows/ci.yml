@@ -28,7 +28,7 @@ jobs:
 
       - name: 'Build site'
         run: |
-          hugo --gc --minify --cleanDestinationDir --baseURL="https://cary-rowen.github.io/BookwormWebsiteCN/"
+          hugo --gc --minify --cleanDestinationDir --baseURL="https://bw.enabc.net/"
 
       - name: 'Deploy to GitHub Pages'
         uses: peaceiris/actions-gh-pages@v3
