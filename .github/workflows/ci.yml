@@ -1,0 +1,31 @@
+name: ci
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 'Check out your Hugo site'
+        uses: actions/checkout@v3
+
+      - name: 'Install Hugo'
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: latest
+          extended: true
+
+      - name: 'Build site'
+        run: |
+          hugo --gc --minify --cleanDestinationDir --baseURL="https://your-github-username.github.io/your-hugo-site/"
+
+      - name: 'Deploy to GitHub Pages'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          force_orphan: true

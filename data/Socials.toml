@@ -1,0 +1,22 @@
+
+[[socials]]
+    id = "github"
+    url = "https://github.com/blindpandas/bookworm"
+    icon = "github"
+    title = "GitHub"
+    weight = 1
+
+[[socials]]
+    id = "QQGroup"
+    url = "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=gW905iM3YPt1Y4gj8Y756_gqZ7ZDAjX9&authKey=55Cqb3%2Bz5sR%2Fw7Wqb6DS6FfZ9uJQczqd2K6DJh8jcy47nvLqgP2OGMeKunZ0eRef&noverify=0&group_code=556550625"
+    icon = "qq"
+    title = "QQ 交流群"
+    weight = 2
+
+[[socials]]
+    id = "telegram"
+    url = "https://t.me/bookworm_official"
+    icon = "telegram"
+    title = "英文 Telegram 群组"
+    weight = 3
+
