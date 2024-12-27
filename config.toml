@@ -232,10 +232,16 @@ uglyURLs = false
         weight = 3
         pre = "internal"
     [[menu.main]]
-        pageref = "/about/download"
+        pageref = "/about/Download"
         name = "下载"
         weight = 4
         pre = "internal"
+    [[menu.main]]
+        pageref = "/about/DemoVideo"
+        name = "视频演示"
+        weight = 5
+        pre = "internal"
+
 
 
 ##########################################
