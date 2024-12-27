@@ -222,7 +222,7 @@ uglyURLs = false
     #     identifier = "search"
     #     post = "search"
     [[menu.main]]
-        pageref = "/donate/"
+        pageref = "/about/Donate/"
         name = "赞助"
         weight = 2
         pre = "internal"
@@ -230,6 +230,11 @@ uglyURLs = false
         pageref = "/doc/"
         name = "用户指南"
         weight = 3
+        pre = "internal"
+    [[menu.main]]
+        pageref = "/about/download"
+        name = "下载"
+        weight = 4
         pre = "internal"
 
 
