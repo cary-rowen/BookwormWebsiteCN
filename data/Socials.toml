@@ -12,11 +12,3 @@
     icon = "qq"
     title = "QQ 交流群"
     weight = 2
-
-[[socials]]
-    id = "telegram"
-    url = "https://t.me/bookworm_official"
-    icon = "telegram"
-    title = "Telegram 群组"
-    weight = 3
-
