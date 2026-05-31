@@ -84,3 +84,15 @@ title = '下载'
 * [@sofquipeut](https://github.com/sofquipeut) （[#313](https://github.com/blindpandas/bookworm/pull/313)）
 
 **完整变更日志**: [2024.2...2026.1](https://github.com/blindpandas/bookworm/compare/2024.2...2026.1)
+
+以下提供 Bookworm 最新开发版的下载渠道，由[NVDA中文站](https://www.nvdacn.com/)提供资源下载支持。
+
+### 从中文站下载开发版：
+
+[Bookworm-2026.2a1-x64-setup](https://dl.nvdacn.com/Share/Bookworm/dev/Bookworm-2026.2a1-x64-setup.exe)
+
+[Bookworm-2026.2a1-x64-portable](https://dl.nvdacn.com/Share/Bookworm/dev/Bookworm-2026.2a1-x64-portable.zip)
+
+[Bookworm-2026.2a1-x86-setup](https://dl.nvdacn.com/Share/Bookworm/dev/Bookworm-2026.2a1-x86-setup.exe)
+
+[Bookworm-2026.2a1-x86-portable](https://dl.nvdacn.com/Share/Bookworm/dev/Bookworm-2026.2a1-x86-portable.zip)
