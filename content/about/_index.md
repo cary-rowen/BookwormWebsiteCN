@@ -4,8 +4,8 @@ draft = false
 title = '关于 Bookworm'
 +++
 
-[Bookworm] 是一款无障碍的文档阅读器，可让您以一种轻松且易于访问的方式来阅读PDF、EPUB、MOBI等众多格式的电子文档。
+[Bookworm] 是一款文档阅读器，可让您通过灵活、简洁且具有良好无障碍支持的界面阅读 PDF、EPUB、MOBI 以及许多其他格式的文档。
 
-这里是 Bookworm 的中文站点，提供有关于 Bookworm 的下载渠道、中文资讯和使用教程。
+这里是 Bookworm 中文站，提供 Bookworm 的软件下载、中文资讯和用户指南。
 
 [Bookworm]: https://github.com/blindpandas/bookworm/

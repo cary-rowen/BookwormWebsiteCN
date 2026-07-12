@@ -1,10 +1,10 @@
 +++
 date = '2024-12-27T07:57:30+08:00'
 draft = false
-title = '下载'
+title = '视频演示'
 +++
 
-以下视频展示了如何使用Bookworm进行基本的文档阅读、结构化导航、注解与标记、扫描版文档阅读，以及其他的辅助功能，如网页文章提取器和维基百科快速查询。
+以下视频演示了如何使用 Bookworm 阅读文档、进行结构化导航、添加注解和标记、阅读扫描版文档，以及使用网页正文提取器和维基百科快速搜索等辅助功能。
 
-<video src="https://dl.nvdacn.com/Share/Bookworm-DemoVideo.mp4" controls>您的浏览 器不支持播放该视频！</video> 
+<video src="https://dl.nvdacn.com/Share/Bookworm-DemoVideo.mp4" controls>您的浏览器不支持播放此视频。</video>
 

@@ -6,7 +6,7 @@ title = "Bookworm 中文站"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "Musharraf Omer 和 Bookworm 贡献者。遵循[MIT版权许可](https://github.com/blindpandas/bookworm/blob/master/LICENSE)"
+copyright = "Bookworm 版权所有 (c) 2026 Blind Pandas 及 Bookworm 贡献者。本软件根据 [GNU 通用公共许可证第 2 版或后续版本](https://github.com/blindpandas/bookworm/blob/develop/LICENSE)授权发布。"
 
 # 主题选择
 theme = "meme"
@@ -355,7 +355,7 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "Bookworm 是一款无障碍的文档阅读器，可让您以一种轻松且易于访问的方式来阅读PDF、EPUB、MOBI等众多格式的电子文档。"
+    siteDescription = "Bookworm 是一款文档阅读器，可让您通过灵活、简洁且具有良好无障碍支持的界面阅读 PDF、EPUB、MOBI 以及许多其他格式的文档。"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
