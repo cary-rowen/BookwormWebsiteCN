@@ -89,10 +89,10 @@ title = '下载'
 
 ### 从中文站下载开发版
 
-[Bookworm-2026.2a1-x64-setup](https://dl.nvdacn.com/Share/Bookworm/dev/Bookworm-2026.2a1-x64-setup.exe)
+[Bookworm-2026.2a2-x64-setup](https://dl.nvdacn.com/Share/Bookworm/dev/Bookworm-2026.2a2-x64-setup.exe)
 
-[Bookworm-2026.2a1-x64-portable](https://dl.nvdacn.com/Share/Bookworm/dev/Bookworm-2026.2a1-x64-portable.zip)
+[Bookworm-2026.2a2-x64-portable](https://dl.nvdacn.com/Share/Bookworm/dev/Bookworm-2026.2a2-x64-portable.zip)
 
-[Bookworm-2026.2a1-x86-setup](https://dl.nvdacn.com/Share/Bookworm/dev/Bookworm-2026.2a1-x86-setup.exe)
+[Bookworm-2026.2a2-x86-setup](https://dl.nvdacn.com/Share/Bookworm/dev/Bookworm-2026.2a2-x86-setup.exe)
 
-[Bookworm-2026.2a1-x86-portable](https://dl.nvdacn.com/Share/Bookworm/dev/Bookworm-2026.2a1-x86-portable.zip)
+[Bookworm-2026.2a2-x86-portable](https://dl.nvdacn.com/Share/Bookworm/dev/Bookworm-2026.2a2-x86-portable.zip)
